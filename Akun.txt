@@ -1,0 +1,9 @@
+postgresql://postgres:O82i339o28o5@db.bfahrkguzhumdgslkhtp.supabase.co:5432/postgres
+
+host=db.bfahrkguzhumdgslkhtp.supabase.co
+port=5432
+database=postgres
+user=postgres
+
+git config --global user.name "Aziz"
+git config --global user.email "email-github-anda@example.com"
